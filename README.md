@@ -1,1 +1,9 @@
 # reag-cr.github.io
+<!DOCTYPE html >
+<html lang="en">
+</Head>
+<title> Get to Know Me</title>
+<Head>
+<body style="background-color:#98BF64; front -Family Calibria, sans-serif; color:#FFB16D;">
+<h1 style=background-color:#CE1126; color: White; text align:center; Family: 38px;">
+<h1>

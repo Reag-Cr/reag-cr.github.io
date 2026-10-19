@@ -5,26 +5,28 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Get to Know Me</title>
   <style>
-    body {
+    body <
       background-color: #98BF64;
-      font-family: Calibri, "Helvetica Neue", Arial, sans-serif;
+      font-ariel: "Family",
       color: #FFB16D;
       margin: 0;
       padding: 1rem;
-    }
+    >
     h1 {
       background-color: #CE1126;
-      color: white;
+      color: white; 
       text-align: center;
       font-size: 38px;
       padding: 0.5rem 1rem;
       margin: 1rem auto;
       display: inline-block;
+      
+  
     }
   </style>
 </head>
 <body>
   <h1>Get to Know Me</h1>
-  <p>Put your intro text here. Add more headings, paragraphs or sections below.</p>
+  <p></p>
 </body>
 </html>
